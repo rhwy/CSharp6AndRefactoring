@@ -1,0 +1,22 @@
+
+{
+	"version": "1.0.0-*",
+	"compilationOptions": {
+		"warningsAsErrors": true,
+		"emitEntryPoint": true
+	},
+	"dependencies": {
+		
+	},
+	"commands": {
+		"sample1":"CSharp6AndRefactoring 1",
+        "sample2":"CSharp6AndRefactoring 2",
+        "sample3":"CSharp6AndRefactoring 3",
+        "sample":"CSharp6AndRefactoring"
+	},
+	"frameworks": {
+		"dnx451":{}
+	},
+	"entryPoint": "CSharp6AndRefactoring",
+	"loadable": false
+}
